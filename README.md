@@ -1,1 +1,1 @@
-# .github
+Silly vibecoding experiments cuz why not
